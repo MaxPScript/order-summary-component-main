@@ -31,9 +31,6 @@ body {
   background-repeat: no-repeat;
   /* font-size: 18px; */
 }
-body * {
-  /* outline: 1px solid red; */
-}
 
 .card {
   width: 450px;
